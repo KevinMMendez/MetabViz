@@ -15,18 +15,18 @@
 <br/>
 
 ### *To open notebooks as a static file:* 
--  [Method: PLS-DA; Dataset: ST001047](https://kevinmmendez.github.io/metabviz/static/PLSDA_ST001047.html)
--  [Method: ANN-SS; Dataset: ST001047](https://kevinmmendez.github.io/metabviz//static/ANNSigSig_ST001047.html)
--  [Method: PLS-DA; Dataset: MTBLS90](https://kevinmmendez.github.io/metabviz//static/PLSDA_MTBLS90.html)
--  [Method: ANN-SS; Dataset: MTBLS90](https://kevinmmendez.github.io/metabviz//static/ANNSigSig_MTBLS90.html)
+-  [Method: PLS-DA; Dataset: ST001047](https://kevinmmendez.github.io/MetabViz/static/PLSDA_ST001047.html)
+-  [Method: ANN-SS; Dataset: ST001047](https://kevinmmendez.github.io/MetabViz/static/ANNSigSig_ST001047.html)
+-  [Method: PLS-DA; Dataset: MTBLS90](https://kevinmmendez.github.io/MetabViz/static/PLSDA_MTBLS90.html)
+-  [Method: ANN-SS; Dataset: MTBLS90](https://kevinmmendez.github.io/MetabViz/static/ANNSigSig_MTBLS90.html)
 
 <br/>
 
 ### *To launch the notebooks in the cloud (using Binder):* 
--  [Method: PLS-DA; Dataset: ST001047](https://mybinder.org/v2/gh/kevinmmendez/metabviz//master?filepath=notebook/static/PLSDA_ST001047.ipynb)
--  [Method: ANN-SS; Dataset: ST001047](https://mybinder.org/v2/gh/kevinmmendez/metabviz//master?filepath=notebook/static/ANNSigSig_ST001047.ipynb)
--  [Method: PLS-DA; Dataset: MTBLS90](https://mybinder.org/v2/gh/kevinmmendez/metabviz//master?filepath=notebook/static/PLSDA_MTBLS90.ipynb)
--  [Method: ANN-SS; Dataset: MTBLS90](https://mybinder.org/v2/gh/kevinmmendez/metabviz//master?filepath=notebook/static/ANNSigSig_MTBLS90.ipynb)
+-  [Method: PLS-DA; Dataset: ST001047](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebook/static/PLSDA_ST001047.ipynb)
+-  [Method: ANN-SS; Dataset: ST001047](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebook/static/ANNSigSig_ST001047.ipynb)
+-  [Method: PLS-DA; Dataset: MTBLS90](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebook/static/PLSDA_MTBLS90.ipynb)
+-  [Method: ANN-SS; Dataset: MTBLS90](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebook/static/ANNSigSig_MTBLS90.ipynb)
 
 <br/>
 
