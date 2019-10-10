@@ -31,6 +31,7 @@
 <br/>
 
 ### *To download and run notebooks on a local machine*
+<p align="justify">This requires an installation of Python and Jupyter to be installed on your local machine. We recommend using the Anaconda Distribution for the convenience. For information on installing Python and using Jupyter Notebooks, refer to the tutorial, "Toward collaborative open data science in metabolomics using Jupyter Notebooks and cloud computing" by <a href="https://doi.org/10.1007/s11306-019-1588-0">Mendez et al. (2019)</a>.</p>
 
 <i>Note: If you are using Windows, you need to install git using the following:<i/> [Git for Windows](https://gitforwindows.org/)
 
