@@ -15,18 +15,18 @@
 <br/>
 
 ### *To open notebooks as static HTML files:* 
--  [PLSDA_ST001047.html (Method: PLS-DA; Dataset: ST001047)](https://kevinmmendez.github.io/MetabViz/static/PLSDA_ST001047.html) (Updated)
--  [ANNSigSig_ST001047.html (Method: ANN-SS; Dataset: ST001047)](https://kevinmmendez.github.io/MetabViz/static/ANNSigSig_ST001047.html) (Updated)
--  [PLSDA_MTBLS90.html (Method: PLS-DA; Dataset: MTBLS90)](https://kevinmmendez.github.io/MetabViz/static/PLSDA_MTBLS90.html) (Old)
--  [ANNSigSig_MTBLS90.html (Method: ANN-SS; Dataset: MTBLS90)](https://kevinmmendez.github.io/MetabViz/static/ANNSigSig_MTBLS90.html) (Old)
+-  [PLSDA_ST001047.html (Method: PLS-DA; Dataset: ST001047)](https://kevinmmendez.github.io/MetabViz/static/PLSDA_ST001047.html) 
+-  [ANNSigSig_ST001047.html (Method: ANN-SS; Dataset: ST001047)](https://kevinmmendez.github.io/MetabViz/static/ANNSigSig_ST001047.html) 
+-  [PLSDA_MTBLS90.html (Method: PLS-DA; Dataset: MTBLS90)](https://kevinmmendez.github.io/MetabViz/static/PLSDA_MTBLS90.html) 
+-  [ANNSigSig_MTBLS90.html (Method: ANN-SS; Dataset: MTBLS90)](https://kevinmmendez.github.io/MetabViz/static/ANNSigSig_MTBLS90.html)
 
 <br/>
 
 ### *To launch the notebooks in the cloud (using Binder):* 
--  [PLSDA_ST001047.ipynb (Method: PLS-DA; Dataset: ST001047)](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebooks/PLSDA_ST001047.ipynb) (Updated)
--  [ANNSigSig_ST001047.ipynb (Method: ANN-SS; Dataset: ST001047)](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebooks/ANNSigSig_ST001047.ipynb) (Updated)
--  [PLSDA_MTBLS90.ipynb (Method: PLS-DA; Dataset: MTBLS90)](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebooks/PLSDA_MTBLS90.ipynb) (Old)
--  [ANNSigSig_MTBLS90.ipynb (Method: ANN-SS; Dataset: MTBLS90)](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebooks/ANNSigSig_MTBLS90.ipynb) (Old)
+-  [PLSDA_ST001047.ipynb (Method: PLS-DA; Dataset: ST001047)](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebooks/PLSDA_ST001047.ipynb) 
+-  [ANNSigSig_ST001047.ipynb (Method: ANN-SS; Dataset: ST001047)](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebooks/ANNSigSig_ST001047.ipynb) 
+-  [PLSDA_MTBLS90.ipynb (Method: PLS-DA; Dataset: MTBLS90)](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebooks/PLSDA_MTBLS90.ipynb) 
+-  [ANNSigSig_MTBLS90.ipynb (Method: ANN-SS; Dataset: MTBLS90)](https://mybinder.org/v2/gh/kevinmmendez/MetabViz/master?filepath=notebooks/ANNSigSig_MTBLS90.ipynb) 
 
 <br/>
 
